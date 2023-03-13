@@ -9,7 +9,10 @@ NEXT 11기
 
 ## 📚 Sessions
 
-3/6 - 개발환경 설정 & HTML, CSS 기초
+03/06 - session0 개발환경 설정 & HTML, CSS 기초
+03/09 - session1 css/심화
+03/13 - session2 프로그래밍 언어 & 파이썬 기초
+
 
 
 ## 📑 Assignment
